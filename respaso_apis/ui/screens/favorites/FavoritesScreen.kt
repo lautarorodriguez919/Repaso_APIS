@@ -58,7 +58,7 @@ fun FavoritesScreen(
                 Text(
                     text = "se ha de mostrar le nom del personaje centrado en negreta i con tamaño de funeta mas grande que el resto de texto encima esta una cita i la imagen del personaje, que es una al lado de la otra" +
                             "en funciuon de ek atrbuto character direction tendras que poner la imagena ntes o despeus del texto" +
-                            "eso seria el random quotre dahora te paso la seccino de favorites",
+                            "eso seria el random quotre dahora te paso la seccino de favorites entendido",
                     color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f)
                 )
             }
