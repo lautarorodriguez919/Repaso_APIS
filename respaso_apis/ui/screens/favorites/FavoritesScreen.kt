@@ -56,7 +56,9 @@ fun FavoritesScreen(
             ) {
                 //Aqui mis consultas
                 Text(
-                    text = "Navegacino La navegacio de la aplicacion es farta mitjanánt un bottombar aquest presentara les segunetes opcions random quote y favorites random quiote en netrara en esta antallaes  mostrara un cita alearoriprovient de l'apii ka curada que has de fer es lka segunete https://thesimpsonsqyireaou.glkutch.me/quotes aqui tienes un exempple de lo que deuvleve(imagen)",
+                    text = "se ha de mostrar le nom del personaje centrado en negreta i con tamaño de funeta mas grande que el resto de texto encima esta una cita i la imagen del personaje, que es una al lado de la otra" +
+                            "en funciuon de ek atrbuto character direction tendras que poner la imagena ntes o despeus del texto" +
+                            "eso seria el random quotre dahora te paso la seccino de favorites",
                     color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f)
                 )
             }
