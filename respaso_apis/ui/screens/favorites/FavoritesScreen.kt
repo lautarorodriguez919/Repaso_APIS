@@ -56,7 +56,7 @@ fun FavoritesScreen(
             ) {
                 //Aqui mis consultas
                 Text(
-                    text = "No tens cap favorit guardat.",
+                    text = "Navegacino La navegacio de la aplicacion es farta mitjanánt un bottombar aquest presentara les segunetes opcions random quote y favorites random quiote en netrara en esta antallaes  mostrara un cita alearoriprovient de l'apii ka curada que has de fer es lka segunete https://thesimpsonsqyireaou.glkutch.me/quotes aqui tienes un exempple de lo que deuvleve(imagen)",
                     color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f)
                 )
             }
